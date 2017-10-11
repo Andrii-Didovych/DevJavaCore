@@ -1,0 +1,1 @@
+{Person [name=and]=[Pet [kind=ket, name=xfgdfhgjdf]], Person [name=ser]=[Pet [kind=dog, name=asdasdfdsf]]}{Person [name=petro]=[], Person [name=sergii]=[Pet [kind=ket, name=tom]], Person [name=andrii]=[]}{}
